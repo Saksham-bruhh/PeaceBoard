@@ -32,4 +32,4 @@ Hosting (Recommended):
 
 Frontend: GitHub Pages / Vercel
 Backend: Render / Railway
-npm run build
+
